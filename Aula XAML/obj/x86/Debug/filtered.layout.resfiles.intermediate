@@ -1,4 +1,5 @@
 WinMetadata\Windows.winmd
+Assets\crown.png
 Assets\LargeTile.scale-100.png
 Assets\LargeTile.scale-125.png
 Assets\LargeTile.scale-150.png
@@ -45,7 +46,7 @@ Assets\StoreLogo.scale-125.png
 Assets\StoreLogo.scale-150.png
 Assets\StoreLogo.scale-200.png
 Assets\StoreLogo.scale-400.png
-Assets\TowerOfLondon.png
+Assets\Tower_of_London_viewed_from_the_River_Thames.png
 Assets\Wide310x150Logo.scale-100.png
 Assets\Wide310x150Logo.scale-125.png
 Assets\Wide310x150Logo.scale-150.png

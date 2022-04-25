@@ -10,7 +10,6 @@ C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Core\Aula XAM
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Basic Xaml Class.build.appxrecipe
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\System.Runtime.dll
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
-C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\Basic Xaml Class.csproj.AssemblyReference.cache
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\App.g.i.cs
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\App.g.cs
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\MainPage.g.i.cs
