@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:31:28.946</Modified>
+      <Modified>2022-04-25T00:44:54.769</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Aula XAML.exe">
       <PackagePath>entrypoint\Aula XAML.exe</PackagePath>
-      <Modified>2022-04-25T00:31:28.213</Modified>
+      <Modified>2022-04-25T00:44:53.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -314,15 +314,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Aula XAML.xr.xml">
       <PackagePath>Aula XAML.xr.xml</PackagePath>
-      <Modified>2022-04-25T00:31:28.080</Modified>
+      <Modified>2022-04-25T00:44:53.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-04-25T00:18:45.966</Modified>
+      <Modified>2022-04-25T00:41:48.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-04-25T00:31:28.087</Modified>
+      <Modified>2022-04-25T00:44:53.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -330,11 +330,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-04-25T00:18:46.395</Modified>
+      <Modified>2022-04-25T00:41:48.533</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Core\Aula XAML.exe">
       <PackagePath>Aula XAML.exe</PackagePath>
-      <Modified>2022-04-25T00:31:28.935</Modified>
+      <Modified>2022-04-25T00:44:54.761</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
