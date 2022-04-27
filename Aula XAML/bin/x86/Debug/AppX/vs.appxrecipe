@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>25266DBF6FFECE74C5D14C77B04F8DC4321C2FC94922B51C043FBEB52A234422</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>76038FB3CD4CBECE5ACCB53776F1E6BDBBBBDD769CFC4B3C82C415678E98E1AE</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>8042ac5c-706a-40e7-aecb-ac779f88af1f_1.0.0.0_x86__5xw70epk7p9xy</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>8042ac5c-706a-40e7-aecb-ac779f88af1f_5xw70epk7p9xy!App</RegisteredUserModeAppID>
     <RegisteredPackageID>8042ac5c-706a-40e7-aecb-ac779f88af1f</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:44:54.769</Modified>
+      <Modified>2022-04-27T10:48:30.057</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Aula XAML.exe">
       <PackagePath>entrypoint\Aula XAML.exe</PackagePath>
-      <Modified>2022-04-25T00:44:53.797</Modified>
+      <Modified>2022-04-27T10:48:28.323</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -53,207 +53,207 @@
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:48.572</Modified>
+      <Modified>2022-04-27T10:47:50.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\LargeTile.scale-125.png">
       <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:48.661</Modified>
+      <Modified>2022-04-27T10:47:50.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\LargeTile.scale-150.png">
       <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:48.752</Modified>
+      <Modified>2022-04-27T10:47:50.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:48.865</Modified>
+      <Modified>2022-04-27T10:47:50.759</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.152</Modified>
+      <Modified>2022-04-27T10:47:50.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:47.197</Modified>
+      <Modified>2022-04-27T10:47:49.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\SmallTile.scale-125.png">
       <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:47.316</Modified>
+      <Modified>2022-04-27T10:47:49.938</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\SmallTile.scale-150.png">
       <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:47.408</Modified>
+      <Modified>2022-04-27T10:47:49.971</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:47.473</Modified>
+      <Modified>2022-04-27T10:47:50.013</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:47.550</Modified>
+      <Modified>2022-04-27T10:47:50.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.704</Modified>
+      <Modified>2022-04-27T10:47:51.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.807</Modified>
+      <Modified>2022-04-27T10:47:51.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.922</Modified>
+      <Modified>2022-04-27T10:47:51.839</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:51.516</Modified>
+      <Modified>2022-04-27T10:47:52.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:47.620</Modified>
+      <Modified>2022-04-27T10:47:50.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:47.688</Modified>
+      <Modified>2022-04-27T10:47:50.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:47.759</Modified>
+      <Modified>2022-04-27T10:47:50.160</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:47.993</Modified>
+      <Modified>2022-04-27T10:47:50.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.285</Modified>
+      <Modified>2022-04-27T10:47:51.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.352</Modified>
+      <Modified>2022-04-27T10:47:51.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.605</Modified>
+      <Modified>2022-04-27T10:47:51.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.416</Modified>
+      <Modified>2022-04-27T10:47:51.568</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.480</Modified>
+      <Modified>2022-04-27T10:47:51.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.929</Modified>
+      <Modified>2022-04-27T10:47:51.346</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.205</Modified>
+      <Modified>2022-04-27T10:47:51.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.059</Modified>
+      <Modified>2022-04-27T10:47:51.403</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:50.118</Modified>
+      <Modified>2022-04-27T10:47:51.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.214</Modified>
+      <Modified>2022-04-27T10:47:51.017</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.275</Modified>
+      <Modified>2022-04-27T10:47:51.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.335</Modified>
+      <Modified>2022-04-27T10:47:51.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.465</Modified>
+      <Modified>2022-04-27T10:47:51.156</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.554</Modified>
+      <Modified>2022-04-27T10:47:51.190</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.646</Modified>
+      <Modified>2022-04-27T10:47:51.220</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.857</Modified>
+      <Modified>2022-04-27T10:47:51.315</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.715</Modified>
+      <Modified>2022-04-27T10:47:51.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.779</Modified>
+      <Modified>2022-04-27T10:47:51.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:51.576</Modified>
+      <Modified>2022-04-27T10:47:52.390</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:51.636</Modified>
+      <Modified>2022-04-27T10:47:52.418</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:51.698</Modified>
+      <Modified>2022-04-27T10:47:52.445</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:51.764</Modified>
+      <Modified>2022-04-27T10:47:52.474</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:51.869</Modified>
+      <Modified>2022-04-27T10:47:52.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Tower_of_London_viewed_from_the_River_Thames.png">
       <PackagePath>Assets\Tower_of_London_viewed_from_the_River_Thames.png</PackagePath>
@@ -262,22 +262,22 @@
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:48.073</Modified>
+      <Modified>2022-04-27T10:47:50.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:48.153</Modified>
+      <Modified>2022-04-27T10:47:50.344</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:48.228</Modified>
+      <Modified>2022-04-27T10:47:50.383</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:48.494</Modified>
+      <Modified>2022-04-27T10:47:50.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -286,27 +286,27 @@
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:51.078</Modified>
+      <Modified>2022-04-27T10:47:51.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:47.860</Modified>
+      <Modified>2022-04-27T10:47:50.203</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.395</Modified>
+      <Modified>2022-04-27T10:47:51.117</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:49.994</Modified>
+      <Modified>2022-04-27T10:47:51.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-25T00:17:48.311</Modified>
+      <Modified>2022-04-27T10:47:50.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -314,7 +314,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Aula XAML.xr.xml">
       <PackagePath>Aula XAML.xr.xml</PackagePath>
-      <Modified>2022-04-25T00:44:53.662</Modified>
+      <Modified>2022-04-27T10:48:28.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
@@ -322,7 +322,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-04-25T00:44:53.674</Modified>
+      <Modified>2022-04-27T10:48:28.181</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -330,11 +330,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-04-25T00:41:48.533</Modified>
+      <Modified>2022-04-27T10:48:28.980</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Core\Aula XAML.exe">
       <PackagePath>Aula XAML.exe</PackagePath>
-      <Modified>2022-04-25T00:44:54.761</Modified>
+      <Modified>2022-04-27T10:48:30.030</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -5,38 +5,35 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
       mc:Ignorable="d"
       Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-    <Grid >
+    <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="/Assets/Tower_of_London_viewed_from_the_River_Thames.png" />
+            <ImageBrush ImageSource="/Assets/green-fake-grass-background.png" />
         </Grid.Background>
-        <Grid.RowDefinitions>
+        <!--<Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
-        </Grid.RowDefinitions>
-        
+
+        </Grid.RowDefinitions>-->
         <!--O StackPanel permite que voce empilhe elementos como texto, imagens e controles.
 
-        Neste StackPanel de exemplo temos uma altura de 300 px por uma largura de 700 px. Importante: não usamos px em XAML porque é uma unidade diferente, chamada de logical pixel.--> 
-
-        <StackPanel Grid.Row="0" Background="white" Opacity=".9" Spacing="10"
-                    Height="400"
-                    Width="700"
+        Neste StackPanel de exemplo temos uma altura de 300 px por uma largura de 700 px. Importante: não usamos px em XAML porque é uma unidade diferente, chamada de logical pixel.-->
+        <StackPanel Grid.Row="0"
+                    Spacing="10"
                     CornerRadius="7"
                     VerticalAlignment="Center">
-            
-            <TextBlock Text="crown" FontSize="50"
-                       HorizontalAlignment="Left"></TextBlock>
-            <Image Source="/Assets/crown.png"
-                   Height="50"
-                   HorizontalAlignment="Left" />
-            <Image Source="/Assets/crown.png"
-                   Height="50"
-                   HorizontalAlignment="Right"></Image>
-            <Image Source="/Assets/crown.png"
-                   Height="50"
-                   HorizontalAlignment="Center"/>
+            <TextBlock Text="Doug"
+                       FontFamily="Comic Sans MS"
+                       Foreground="Magenta"
+                       FontSize="150"
+                       HorizontalAlignment="Left"
+                       Height="204"
+                       Width="460"></TextBlock>
+            <Image Source="/Assets/dog1.png"
+                   Height="310"
+                   Width="763" />
+            <Image Source="/Assets/dog2.png" Height="400" />
         </StackPanel>
-        <Grid  Grid.Row="1">
+        <!--<Grid  Grid.Row="1">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
@@ -49,6 +46,6 @@
                        Fill="#e2d3c5" />
             <Rectangle Grid.Column="2"
                        Fill="#584d41" />
-        </Grid>
+        </Grid>-->
     </Grid>
 </Page>

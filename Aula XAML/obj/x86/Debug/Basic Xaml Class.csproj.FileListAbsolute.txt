@@ -42,3 +42,4 @@ C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\qualifiers.tx
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
+C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\Basic XAML Class.csproj.AssemblyReference.cache
