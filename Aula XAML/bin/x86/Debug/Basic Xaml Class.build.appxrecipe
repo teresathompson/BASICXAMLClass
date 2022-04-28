@@ -34,8 +34,17 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\crown.png">
-      <PackagePath>Assets\crown.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\dog1.png">
+      <PackagePath>Assets\dog1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\dog2.png">
+      <PackagePath>Assets\dog2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\dog3.png">
+      <PackagePath>Assets\dog3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\green-fake-grass-background.png">
+      <PackagePath>Assets\green-fake-grass-background.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
@@ -200,9 +209,6 @@
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Tower_of_London_viewed_from_the_River_Thames.png">
-      <PackagePath>Assets\Tower_of_London_viewed_from_the_River_Thames.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>

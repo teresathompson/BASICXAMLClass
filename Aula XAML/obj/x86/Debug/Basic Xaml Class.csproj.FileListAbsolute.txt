@@ -7,7 +7,7 @@ C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\resources.pri
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\AppxManifest.xml
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Core\AppxManifest.xml
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Core\Aula XAML.exe
-C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Basic Xaml Class.build.appxrecipe
+C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Basic XAML Class.build.appxrecipe
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\System.Runtime.dll
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\App.g.i.cs
@@ -20,8 +20,8 @@ C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\MainPage.xaml
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\App.xbf
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\MainPage.xbf
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\XamlSaveStateFile.xml
-C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\Basic Xaml Class.csproj.CoreCompileInputs.cache
-C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\Basic Xaml Class.csproj.CopyComplete
+C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\Basic XAML Class.csproj.CoreCompileInputs.cache
+C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\Basic XAML Class.csproj.CopyComplete
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\Aula XAML.exe
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\Aula XAML.pdb
 C:\Users\teres\Source\Repos\BASICXAMLClass\Aula XAML\obj\x86\Debug\ResourceHandlingTask.state

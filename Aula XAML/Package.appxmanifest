@@ -37,7 +37,7 @@
         Square44x44Logo="Assets\Square44x44Logo.png"
         Description="Aula XAML"
         BackgroundColor="transparent">
-        <uap:SplashScreen Image="Assets\SplashScreen.png"  BackgroundColor="white"/>
+        <uap:SplashScreen Image="Assets\SplashScreen.png"  BackgroundColor="#a523bb"/>
         <uap:DefaultTile Square71x71Logo="Assets\SmallTile.png" Wide310x150Logo="Assets\Wide310x150Logo.png" Square310x310Logo="Assets\LargeTile.png"/>
       </uap:VisualElements>
     </Application>

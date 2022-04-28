@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Source>C:\Users\teres\Downloads\cute-golden-retriever.png</Source>
-    <SmallTileSource>C:\Users\teres\Downloads\cute-golden-retriever.png</SmallTileSource>
-    <MediumTileSource>C:\Users\teres\Downloads\cute-golden-retriever.png</MediumTileSource>
-    <WideTileSource>C:\Users\teres\Downloads\cute-golden-retriever.png</WideTileSource>
-    <LargeTileSource>C:\Users\teres\Downloads\cute-golden-retriever.png</LargeTileSource>
-    <AppIconSource>C:\Users\teres\Downloads\cute-golden-retriever.png</AppIconSource>
-    <SplashScreenSource>C:\Users\teres\Downloads\cute-golden-retriever.png</SplashScreenSource>
-    <PackageLogoSource>C:\Users\teres\Downloads\cute-golden-retriever.png</PackageLogoSource>
+    <Source>C:\Users\teres\Downloads\dog1.png</Source>
+    <SmallTileSource>C:\Users\teres\Downloads\dog1.png</SmallTileSource>
+    <MediumTileSource>C:\Users\teres\Downloads\dog1.png</MediumTileSource>
+    <WideTileSource>C:\Users\teres\Downloads\dog1.png</WideTileSource>
+    <LargeTileSource>C:\Users\teres\Downloads\dog1.png</LargeTileSource>
+    <AppIconSource>C:\Users\teres\Downloads\dog1.png</AppIconSource>
+    <SplashScreenSource>C:\Users\teres\Downloads\dog1.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\teres\Downloads\dog1.png</PackageLogoSource>
   </PropertyGroup>
 </Project>

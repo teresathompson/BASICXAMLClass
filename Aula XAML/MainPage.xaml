@@ -6,13 +6,9 @@
       mc:Ignorable="d"
       Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
     <Grid>
-        <Grid.Background>
-            <ImageBrush ImageSource="/Assets/green-fake-grass-background.png" />
-        </Grid.Background>
         <!--<Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
-
         </Grid.RowDefinitions>-->
         <!--O StackPanel permite que voce empilhe elementos como texto, imagens e controles.
 
@@ -21,17 +17,11 @@
                     Spacing="10"
                     CornerRadius="7"
                     VerticalAlignment="Center">
-            <TextBlock Text="Doug"
-                       FontFamily="Comic Sans MS"
-                       Foreground="Magenta"
-                       FontSize="150"
-                       HorizontalAlignment="Left"
-                       Height="204"
-                       Width="460"></TextBlock>
             <Image Source="/Assets/dog1.png"
-                   Height="310"
-                   Width="763" />
-            <Image Source="/Assets/dog2.png" Height="400" />
+                   Height="400"
+                   HorizontalAlignment="Center" />
+            <Image Source="/Assets/dog2.png"
+                   Height="400" />
         </StackPanel>
         <!--<Grid  Grid.Row="1">
             <Grid.ColumnDefinitions>
@@ -41,7 +31,7 @@
             </Grid.ColumnDefinitions>
             <Image></Image>
             <Grid Grid.Column="0"
-                       Background="#2596be"/>
+                  Background="#2596be" />
             <Rectangle Grid.Column="1"
                        Fill="#e2d3c5" />
             <Rectangle Grid.Column="2"
