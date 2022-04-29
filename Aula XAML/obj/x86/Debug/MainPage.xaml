@@ -6,37 +6,47 @@
       mc:Ignorable="d"
       Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
     <Grid>
-        <!--<Grid.RowDefinitions>
+        <ScrollViewer>
+        <Grid Height="1300">
+        <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
-        </Grid.RowDefinitions>-->
+        </Grid.RowDefinitions>
         <!--O StackPanel permite que voce empilhe elementos como texto, imagens e controles.
 
         Neste StackPanel de exemplo temos uma altura de 300 px por uma largura de 700 px. Importante: não usamos px em XAML porque é uma unidade diferente, chamada de logical pixel.-->
         <StackPanel Grid.Row="0"
-                    Spacing="10"
-                    CornerRadius="7"
+                    Spacing="5"
                     VerticalAlignment="Center">
             <Image Source="/Assets/dog1.png"
                    Height="400"
                    HorizontalAlignment="Center" />
+                    <HyperlinkButton NavigateUri="https://br.freepik.com/fotos-vetores-gratis/cachorro-deitado"
+                                     Content="Cachorro deitado foto criado por master1305 - br.freepik.com"
+                                     HorizontalAlignment="Center"/>
             <Image Source="/Assets/dog2.png"
                    Height="400" />
+            <HyperlinkButton NavigateUri="https://br.freepik.com/fotos-vetores-gratis/labrador"
+                             Content="Labrador foto criado por master1305 - br.freepik.com"
+                             HorizontalAlignment="Center" />
         </StackPanel>
-        <!--<Grid  Grid.Row="1">
+        <Grid  Grid.Row="1" Margin="0,20,0,0">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
-            <Image></Image>
+            
             <Grid Grid.Column="0"
                   Background="#2596be" />
-            <Rectangle Grid.Column="1"
-                       Fill="#e2d3c5" />
-            <Rectangle Grid.Column="2"
-                       Fill="#584d41" />
-        </Grid>-->
+            <Grid Grid.Column="1"
+                  Background="#e2d3c5" />
+            <Grid Grid.Column="2"
+                  Background="#584d41" />
+        </Grid>
+
+        </Grid>
+        </ScrollViewer>
     </Grid>
 </Page>
 
